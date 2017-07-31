@@ -1,0 +1,5 @@
+D:\Jesse\DEV\SignalR\SignalRDev\SignalRDev.Svc.Common\bin\DEV\SignalRDev.Svc.Common.dll
+D:\Jesse\DEV\SignalR\SignalRDev\SignalRDev.Svc.Common\obj\DEV\SignalRDev.Svc.Common.dll
+D:\Jesse\DEV\SignalR\SignalRDev\_BuildOutput\DEV\SignalRServer\SignalRDev.Svc.Common.dll
+D:\Jesse\DEV\SignalR\SignalRDev\_BuildOutput\DEV\WindowsClient\SignalRDev.Svc.Common.dll
+D:\Jesse\DEV\SignalR\SignalRDev\SignalRDev.Svc.Common\obj\DEV\SignalRDev.Svc.Common.csprojResolveAssemblyReference.cache

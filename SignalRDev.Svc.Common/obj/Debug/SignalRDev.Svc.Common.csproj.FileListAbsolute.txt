@@ -1,0 +1,5 @@
+D:\Jesse\DEV\SignalR\SignalRDev\SignalRDev.Svc.Common\bin\Debug\SignalRDev.Svc.Common.dll
+D:\Jesse\DEV\SignalR\SignalRDev\SignalRDev.Svc.Common\bin\Debug\SignalRDev.Svc.Common.pdb
+D:\Jesse\DEV\SignalR\SignalRDev\SignalRDev.Svc.Common\obj\Debug\SignalRDev.Svc.Common.csprojResolveAssemblyReference.cache
+D:\Jesse\DEV\SignalR\SignalRDev\SignalRDev.Svc.Common\obj\Debug\SignalRDev.Svc.Common.dll
+D:\Jesse\DEV\SignalR\SignalRDev\SignalRDev.Svc.Common\obj\Debug\SignalRDev.Svc.Common.pdb

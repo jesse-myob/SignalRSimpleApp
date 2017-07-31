@@ -1,0 +1,4 @@
+D:\Jesse\DEV\SignalR\SignalRDev\SignalRDev.DataAccess.Dashboard\bin\Debug\SignalRDev.DataAccess.Dashboard.dll
+D:\Jesse\DEV\SignalR\SignalRDev\SignalRDev.DataAccess.Dashboard\bin\Debug\SignalRDev.DataAccess.Dashboard.pdb
+D:\Jesse\DEV\SignalR\SignalRDev\SignalRDev.DataAccess.Dashboard\obj\Debug\SignalRDev.DataAccess.Dashboard.dll
+D:\Jesse\DEV\SignalR\SignalRDev\SignalRDev.DataAccess.Dashboard\obj\Debug\SignalRDev.DataAccess.Dashboard.pdb

@@ -1,0 +1,218 @@
+2017-07-28 15:24:41,656 [7] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [Run] Executing
+2017-07-28 15:24:41,800 [7] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [BeforeStartingService] Executing
+2017-07-28 15:24:41,801 [7] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - BeforeStartingService - Executed
+2017-07-28 15:24:42,084 [7] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Owin Server, Dependencies being Configured.
+2017-07-28 15:24:42,288 [7] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Server Configured
+2017-07-28 16:43:32,227 [8] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [Run] Executing
+2017-07-28 16:43:32,316 [8] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name Signalrdev.Server.Console
+[Success] DisplayName SignalRDev.Server.Console
+[Success] Description SignalRDev.Server.Console
+[Success] ServiceName Signalrdev.Server.Console
+2017-07-28 16:43:32,317 [8] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+2017-07-28 16:43:32,332 [8] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2017-07-28 16:43:32,341 [8] ERROR Topshelf.Hosts.ConsoleRunHost - The Signalrdev.Server.Console service is running and must be stopped before running via the console
+2017-07-28 16:43:32,341 [8] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - Run - Executed
+2017-07-28 16:44:14,206 [8] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [Run] Executing
+2017-07-28 16:44:14,295 [8] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name Signalrdev.Server.Console
+[Success] DisplayName SignalRDev.Server.Console
+[Success] Description SignalRDev.Server.Console
+[Success] ServiceName Signalrdev.Server.Console
+2017-07-28 16:44:14,297 [8] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+2017-07-28 16:44:14,314 [8] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2017-07-28 16:44:14,322 [8] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+2017-07-28 16:44:14,324 [8] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [BeforeStartingService] Executing
+2017-07-28 16:44:14,325 [8] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - BeforeStartingService - Executed
+2017-07-28 16:44:14,331 [8] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Starting
+2017-07-28 16:44:14,571 [8] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Owin Server, Dependencies being Configured.
+2017-07-28 16:44:14,779 [8] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Server Configured
+2017-07-28 16:44:20,331 [14] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:44:24,521 [20] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:44:25,036 [18] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:44:25,233 [15] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:44:25,403 [20] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:44:25,568 [9] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:44:25,724 [21] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:44:25,880 [14] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:44:26,116 [21] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:44:38,884 [8] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [Run] Executing
+2017-07-28 16:44:38,983 [8] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name Signalrdev.Server.Console
+[Success] DisplayName SignalRDev.Server.Console
+[Success] Description SignalRDev.Server.Console
+[Success] ServiceName Signalrdev.Server.Console
+2017-07-28 16:44:38,985 [8] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+2017-07-28 16:44:39,004 [8] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2017-07-28 16:44:39,013 [8] ERROR Topshelf.Hosts.ConsoleRunHost - The Signalrdev.Server.Console service is running and must be stopped before running via the console
+2017-07-28 16:44:39,014 [8] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - Run - Executed
+2017-07-28 16:46:04,992 [7] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [Run] Executing
+2017-07-28 16:46:05,096 [7] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name Signalrdev.Server.Console
+[Success] DisplayName SignalRDev.Server.Console
+[Success] Description SignalRDev.Server.Console
+[Success] ServiceName Signalrdev.Server.Console
+2017-07-28 16:46:05,098 [7] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+2017-07-28 16:46:05,115 [7] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2017-07-28 16:46:05,125 [7] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+2017-07-28 16:46:05,127 [7] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [BeforeStartingService] Executing
+2017-07-28 16:46:05,127 [7] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - BeforeStartingService - Executed
+2017-07-28 16:46:05,134 [7] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Starting
+2017-07-28 16:46:05,355 [7] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Owin Server, Dependencies being Configured.
+2017-07-28 16:46:05,562 [7] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Server Configured
+2017-07-28 16:46:11,379 [13] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:46:14,776 [19] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:46:15,036 [21] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:46:15,226 [21] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:46:15,390 [20] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:46:15,554 [21] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:46:15,723 [21] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:53:51,462 [8] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [Run] Executing
+2017-07-28 16:53:51,561 [8] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name Signalrdev.Server.Console
+[Success] DisplayName SignalRDev.Server.Console
+[Success] Description SignalRDev.Server.Console
+[Success] ServiceName Signalrdev.Server.Console
+2017-07-28 16:53:51,562 [8] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+2017-07-28 16:53:51,579 [8] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2017-07-28 16:53:51,587 [8] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+2017-07-28 16:53:51,589 [8] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [BeforeStartingService] Executing
+2017-07-28 16:53:51,590 [8] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - BeforeStartingService - Executed
+2017-07-28 16:53:51,595 [8] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Starting
+2017-07-28 16:53:51,649 [8] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Owin Server, Dependencies being Configured.
+2017-07-28 16:53:51,923 [8] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Server Configured
+2017-07-28 16:53:56,558 [9] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:53:57,647 [17] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:53:58,091 [9] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:53:58,298 [18] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:53:58,499 [19] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:53:58,699 [22] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:53:58,877 [18] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:53:59,045 [22] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:53:59,240 [15] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:53:59,431 [15] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:53:59,603 [20] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:53:59,815 [15] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:54:00,007 [15] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:54:00,188 [20] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:54:00,372 [21] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:54:00,558 [22] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:54:00,748 [21] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:54:00,927 [19] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:54:01,145 [15] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:54:01,341 [19] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:54:01,553 [15] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:54:01,734 [20] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:54:01,905 [21] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:54:02,098 [18] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:54:02,271 [21] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:54:02,463 [18] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:58:20,383 [8] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [Run] Executing
+2017-07-28 16:58:20,467 [8] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name Signalrdev.Server.Console
+[Success] DisplayName SignalRDev.Server.Console
+[Success] Description SignalRDev.Server.Console
+[Success] ServiceName Signalrdev.Server.Console
+2017-07-28 16:58:20,469 [8] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+2017-07-28 16:58:20,483 [8] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2017-07-28 16:58:20,492 [8] ERROR Topshelf.Hosts.ConsoleRunHost - The Signalrdev.Server.Console service is running and must be stopped before running via the console
+2017-07-28 16:58:20,493 [8] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - Run - Executed
+2017-07-28 16:58:31,522 [10] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [Run] Executing
+2017-07-28 16:58:31,624 [10] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name Signalrdev.Server.Console
+[Success] DisplayName SignalRDev.Server.Console
+[Success] Description SignalRDev.Server.Console
+[Success] ServiceName Signalrdev.Server.Console
+2017-07-28 16:58:31,625 [10] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+2017-07-28 16:58:31,643 [10] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2017-07-28 16:58:31,652 [10] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+2017-07-28 16:58:31,654 [10] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [BeforeStartingService] Executing
+2017-07-28 16:58:31,654 [10] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - BeforeStartingService - Executed
+2017-07-28 16:58:31,661 [10] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Starting
+2017-07-28 16:58:31,723 [10] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Owin Server, Dependencies being Configured.
+2017-07-28 16:58:32,000 [10] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Server Configured
+2017-07-28 16:58:33,960 [11] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:58:34,055 [20] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:58:34,266 [21] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:58:34,466 [22] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:58:34,655 [22] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:58:34,831 [23] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:58:35,008 [23] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:58:35,143 [22] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 16:58:35,311 [21] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 17:03:10,480 [8] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [Run] Executing
+2017-07-28 17:03:10,597 [8] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name Signalrdev.Server.Console
+[Success] DisplayName SignalRDev.Server.Console
+[Success] Description SignalRDev.Server.Console
+[Success] ServiceName Signalrdev.Server.Console
+2017-07-28 17:03:10,598 [8] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+2017-07-28 17:03:10,617 [8] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2017-07-28 17:03:10,627 [8] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+2017-07-28 17:03:10,629 [8] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [BeforeStartingService] Executing
+2017-07-28 17:03:10,630 [8] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - BeforeStartingService - Executed
+2017-07-28 17:03:10,637 [8] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Starting
+2017-07-28 17:03:10,699 [8] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Owin Server, Dependencies being Configured.
+2017-07-28 17:03:10,977 [8] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Server Configured
+2017-07-28 17:09:28,592 [8] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [Run] Executing
+2017-07-28 17:09:28,698 [8] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name Signalrdev.Server.Console
+[Success] DisplayName SignalRDev.Server.Console
+[Success] Description SignalRDev.Server.Console
+[Success] ServiceName Signalrdev.Server.Console
+2017-07-28 17:09:28,700 [8] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+2017-07-28 17:09:28,720 [8] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2017-07-28 17:09:28,729 [8] ERROR Topshelf.Hosts.ConsoleRunHost - The Signalrdev.Server.Console service is running and must be stopped before running via the console
+2017-07-28 17:09:28,730 [8] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - Run - Executed
+2017-07-28 17:09:38,426 [9] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [Run] Executing
+2017-07-28 17:09:38,523 [9] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name Signalrdev.Server.Console
+[Success] DisplayName SignalRDev.Server.Console
+[Success] Description SignalRDev.Server.Console
+[Success] ServiceName Signalrdev.Server.Console
+2017-07-28 17:09:38,525 [9] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+2017-07-28 17:09:38,547 [9] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2017-07-28 17:09:38,555 [9] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+2017-07-28 17:09:38,556 [9] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [BeforeStartingService] Executing
+2017-07-28 17:09:38,557 [9] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - BeforeStartingService - Executed
+2017-07-28 17:09:38,564 [9] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Starting
+2017-07-28 17:09:38,621 [9] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Owin Server, Dependencies being Configured.
+2017-07-28 17:09:38,897 [9] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Server Configured
+2017-07-28 17:09:40,631 [10] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 17:09:41,155 [20] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 17:09:41,498 [21] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 17:09:41,688 [21] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-07-28 17:13:09,847 [8] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [Run] Executing
+2017-07-28 17:13:09,940 [8] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name Signalrdev.Server.Console
+[Success] DisplayName SignalRDev.Server.Console
+[Success] Description SignalRDev.Server.Console
+[Success] ServiceName Signalrdev.Server.Console
+2017-07-28 17:13:09,941 [8] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+2017-07-28 17:13:09,957 [8] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2017-07-28 17:13:09,965 [8] ERROR Topshelf.Hosts.ConsoleRunHost - The Signalrdev.Server.Console service is running and must be stopped before running via the console
+2017-07-28 17:13:09,966 [8] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - Run - Executed
+2017-07-28 17:13:31,157 [8] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [Run] Executing
+2017-07-28 17:13:31,247 [8] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name Signalrdev.Server.Console
+[Success] DisplayName SignalRDev.Server.Console
+[Success] Description SignalRDev.Server.Console
+[Success] ServiceName Signalrdev.Server.Console
+2017-07-28 17:13:31,248 [8] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+2017-07-28 17:13:31,264 [8] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2017-07-28 17:13:31,273 [8] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+2017-07-28 17:13:31,275 [8] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [BeforeStartingService] Executing
+2017-07-28 17:13:31,275 [8] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - BeforeStartingService - Executed
+2017-07-28 17:13:31,281 [8] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Starting
+2017-07-28 17:13:31,332 [8] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Owin Server, Dependencies being Configured.
+2017-07-28 17:13:31,599 [8] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Server Configured
+2017-07-28 17:15:52,952 [8] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [Run] Executing
+2017-07-28 17:15:53,056 [8] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name Signalrdev.Server.Console
+[Success] DisplayName SignalRDev.Server.Console
+[Success] Description SignalRDev.Server.Console
+[Success] ServiceName Signalrdev.Server.Console
+2017-07-28 17:15:53,057 [8] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+2017-07-28 17:15:53,072 [8] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2017-07-28 17:15:53,083 [8] ERROR Topshelf.Hosts.ConsoleRunHost - The Signalrdev.Server.Console service is running and must be stopped before running via the console
+2017-07-28 17:15:53,083 [8] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - Run - Executed

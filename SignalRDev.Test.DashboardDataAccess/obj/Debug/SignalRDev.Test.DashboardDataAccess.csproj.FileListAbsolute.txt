@@ -1,0 +1,5 @@
+D:\Jesse\DEV\SignalR\SignalRDev\SignalRDev.Test.DashboardDataAccess\bin\Debug\SignalRDev.Test.DashboardDataAccess.dll
+D:\Jesse\DEV\SignalR\SignalRDev\SignalRDev.Test.DashboardDataAccess\bin\Debug\SignalRDev.Test.DashboardDataAccess.pdb
+D:\Jesse\DEV\SignalR\SignalRDev\SignalRDev.Test.DashboardDataAccess\obj\Debug\SignalRDev.Test.DashboardDataAccess.csprojResolveAssemblyReference.cache
+D:\Jesse\DEV\SignalR\SignalRDev\SignalRDev.Test.DashboardDataAccess\obj\Debug\SignalRDev.Test.DashboardDataAccess.dll
+D:\Jesse\DEV\SignalR\SignalRDev\SignalRDev.Test.DashboardDataAccess\obj\Debug\SignalRDev.Test.DashboardDataAccess.pdb

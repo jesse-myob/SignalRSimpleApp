@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" InitialTargets="InitializePublish" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<Target Name="InitializePublish">
+		<Message Text="********** InitializePublish Begins **********" />
+
+		<PropertyGroup>
+			<PublishProfile>$(PublishProfile)</PublishProfile>
+		</PropertyGroup>
+		<Error Condition="'$(PublishProfile)'==''" Text="Property 'PublishProfile' is undefined." />
+		<Message Text="***** PublishProfile: $(PublishProfile) *****" />
+
+		<PropertyGroup>
+			<Configuration Condition="'$(PublishProfile)'=='DEV'">DEV</Configuration>
+			<Configuration Condition="'$(PublishProfile)'=='SIT'">SIT</Configuration>
+			<Configuration Condition="'$(PublishProfile)'=='PRD'">PRD</Configuration>
+		</PropertyGroup>
+		<Error Condition="'$(Configuration)'==''" Text="Property 'Configuration' is undefined." />
+		<Message Text="***** Configuration: $(Configuration) *****" />
+
+		<PropertyGroup>
+			<SolutionDir Condition="'$(SolutionDir)'==''">$(MSBuildProjectDirectory)\</SolutionDir>
+		</PropertyGroup>
+		<Message Text="***** SolutionDir: $(SolutionDir) *****" />
+
+		<PropertyGroup>
+			<BuildOutputDir Condition="'$(OutDir)'==''">$(MSBuildProjectDirectory)\_BuildOutput\$(PublishProfile)\</BuildOutputDir>
+			<BuildOutputDir Condition="'$(OutDir)'!=''">$(OutDir)\_BuildOutput\$(PublishProfile)\</BuildOutputDir>
+		</PropertyGroup>
+		<Message Text="***** BuildOutputDir: $(BuildOutputDir) *****" />
+
+		<PropertyGroup>
+			<DropsDir Condition="'$(OutDir)'==''">$(MSBuildProjectDirectory)\_Drops\$(PublishProfile)\</DropsDir>
+			<DropsDir Condition="'$(OutDir)'!=''">$(OutDir)\_Drops\$(PublishProfile)\</DropsDir>
+		</PropertyGroup>
+		<Message Text="***** DropsDir: $(DropsDir) *****" />
+
+		<ItemGroup>
+			<!--<WebProjectsToPublish Include="$(SolutionDir)SignalRDev.Client.WebApp\SignalRDev.Client.WebApp.csproj">
+				<Name>SignalRClientWebApp</Name>
+				<AdditionalProperties>
+					Configuration=$(Configuration);
+					PublishProfile=$(PublishProfile);
+					PublishUrl=$(DropsDir)SignalRWeb\
+				</AdditionalProperties>
+			</WebProjectsToPublish>-->
+
+			<ProjectsToPublish Include="$(SolutionDir)SignalRDev.Client.WinApp\SignalRDev.Client.WinApp.csproj">
+				<Name>WindowsClient</Name>
+				<AdditionalProperties>
+					Configuration=$(Configuration)
+				</AdditionalProperties>
+			</ProjectsToPublish>
+
+			<ProjectsToPublish Include="$(SolutionDir)SignalRDev.Server.Console\SignalRDev.Server.WinSvc.csproj">
+				<Name>SignalRServer</Name>
+				<AdditionalProperties>
+					Configuration=$(Configuration)
+				</AdditionalProperties>
+			</ProjectsToPublish>
+		</ItemGroup>
+
+		<Message Text="********** InitializePublish Ends **********" />
+	</Target>
+</Project>

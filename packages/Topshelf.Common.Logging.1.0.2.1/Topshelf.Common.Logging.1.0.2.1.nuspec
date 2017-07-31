@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Topshelf.Common.Logging</id>
+    <version>1.0.2.1</version>
+    <title>TopShelf.Common.Logging</title>
+    <authors>thanood</authors>
+    <owners>thanood</owners>
+    <licenseUrl>https://raw.githubusercontent.com/Thanood/Topshelf.Common.Logging/master/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/Thanood/Topshelf.Common.Logging</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Common.Logging library bindings for Topshelf.</description>
+    <summary />
+    <releaseNotes>Assembly signed.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Topshelf Common.Logging</tags>
+    <dependencies>
+      <dependency id="Common.Logging" version="3.0.0" />
+      <dependency id="Topshelf" version="3.1.4" />
+    </dependencies>
+  </metadata>
+</package>
