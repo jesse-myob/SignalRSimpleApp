@@ -1,0 +1,5 @@
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Test.DashboardDataAccess\bin\Debug\SignalRDev.Test.DashboardDataAccess.dll
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Test.DashboardDataAccess\bin\Debug\SignalRDev.Test.DashboardDataAccess.pdb
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Test.DashboardDataAccess\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Test.DashboardDataAccess\obj\DEV\SignalRDev.Test.DashboardDataAccess.dll
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Test.DashboardDataAccess\obj\DEV\SignalRDev.Test.DashboardDataAccess.pdb

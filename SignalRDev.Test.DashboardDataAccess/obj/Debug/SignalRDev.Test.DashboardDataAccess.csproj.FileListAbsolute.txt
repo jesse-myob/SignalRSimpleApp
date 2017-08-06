@@ -3,3 +3,9 @@ D:\Jesse\DEV\SignalR\SignalRDev\SignalRDev.Test.DashboardDataAccess\bin\Debug\Si
 D:\Jesse\DEV\SignalR\SignalRDev\SignalRDev.Test.DashboardDataAccess\obj\Debug\SignalRDev.Test.DashboardDataAccess.csprojResolveAssemblyReference.cache
 D:\Jesse\DEV\SignalR\SignalRDev\SignalRDev.Test.DashboardDataAccess\obj\Debug\SignalRDev.Test.DashboardDataAccess.dll
 D:\Jesse\DEV\SignalR\SignalRDev\SignalRDev.Test.DashboardDataAccess\obj\Debug\SignalRDev.Test.DashboardDataAccess.pdb
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Test.DashboardDataAccess\bin\Debug\SignalRDev.Test.DashboardDataAccess.dll
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Test.DashboardDataAccess\bin\Debug\SignalRDev.Test.DashboardDataAccess.pdb
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Test.DashboardDataAccess\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Test.DashboardDataAccess\obj\Debug\SignalRDev.Test.DashboardDataAccess.csprojResolveAssemblyReference.cache
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Test.DashboardDataAccess\obj\Debug\SignalRDev.Test.DashboardDataAccess.dll
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Test.DashboardDataAccess\obj\Debug\SignalRDev.Test.DashboardDataAccess.pdb

@@ -216,3 +216,371 @@
 2017-07-28 17:15:53,072 [8] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
 2017-07-28 17:15:53,083 [8] ERROR Topshelf.Hosts.ConsoleRunHost - The Signalrdev.Server.Console service is running and must be stopped before running via the console
 2017-07-28 17:15:53,083 [8] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - Run - Executed
+2017-08-06 17:11:12,889 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [Run] Executing
+2017-08-06 17:11:13,104 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name Signalrdev.Server.Console
+[Success] DisplayName SignalRDev.Server.Console
+[Success] Description SignalRDev.Server.Console
+[Success] ServiceName Signalrdev.Server.Console
+2017-08-06 17:11:13,106 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+2017-08-06 17:11:13,128 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2017-08-06 17:11:13,140 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+2017-08-06 17:11:13,142 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [BeforeStartingService] Executing
+2017-08-06 17:11:13,142 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - BeforeStartingService - Executed
+2017-08-06 17:11:13,212 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Starting
+2017-08-06 17:11:13,339 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Owin Server, Dependencies being Configured.
+2017-08-06 17:11:14,101 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Server Configured
+2017-08-06 17:11:14,147 [1] ERROR SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Exception has been thrown by the target of an invocation.
+2017-08-06 17:11:14,148 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Started
+2017-08-06 17:11:14,150 [1] ERROR Topshelf.Hosts.ConsoleRunHost - An exception occurred
+Topshelf.TopshelfException: The service failed to start (return false).
+   at Topshelf.Hosts.ConsoleRunHost.Run()
+2017-08-06 17:11:14,153 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - Run - Executed
+2017-08-06 17:11:54,709 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [Run] Executing
+2017-08-06 17:11:54,802 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name Signalrdev.Server.Console
+[Success] DisplayName SignalRDev.Server.Console
+[Success] Description SignalRDev.Server.Console
+[Success] ServiceName Signalrdev.Server.Console
+2017-08-06 17:11:54,803 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+2017-08-06 17:11:54,823 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2017-08-06 17:11:54,832 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+2017-08-06 17:11:54,834 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [BeforeStartingService] Executing
+2017-08-06 17:11:54,835 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - BeforeStartingService - Executed
+2017-08-06 17:11:54,840 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Starting
+2017-08-06 17:11:54,895 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Owin Server, Dependencies being Configured.
+2017-08-06 17:11:55,163 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Server Configured
+2017-08-06 17:11:55,191 [1] ERROR SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Exception has been thrown by the target of an invocation.
+2017-08-06 17:11:55,193 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Started
+2017-08-06 17:11:55,194 [1] ERROR Topshelf.Hosts.ConsoleRunHost - An exception occurred
+Topshelf.TopshelfException: The service failed to start (return false).
+   at Topshelf.Hosts.ConsoleRunHost.Run()
+2017-08-06 17:11:55,197 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - Run - Executed
+2017-08-06 17:14:18,911 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [Run] Executing
+2017-08-06 17:14:18,998 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name Signalrdev.Server.Console
+[Success] DisplayName SignalRDev.Server.Console
+[Success] Description SignalRDev.Server.Console
+[Success] ServiceName Signalrdev.Server.Console
+2017-08-06 17:14:18,999 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+2017-08-06 17:14:19,021 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2017-08-06 17:14:19,034 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+2017-08-06 17:14:19,036 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [BeforeStartingService] Executing
+2017-08-06 17:14:19,037 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - BeforeStartingService - Executed
+2017-08-06 17:14:19,043 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Starting
+2017-08-06 17:14:19,094 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Owin Server, Dependencies being Configured.
+2017-08-06 17:14:19,338 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Server Configured
+2017-08-06 17:14:19,367 [1] ERROR SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Exception has been thrown by the target of an invocation.
+2017-08-06 17:14:19,368 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Started
+2017-08-06 17:14:19,370 [1] ERROR Topshelf.Hosts.ConsoleRunHost - An exception occurred
+Topshelf.TopshelfException: The service failed to start (return false).
+   at Topshelf.Hosts.ConsoleRunHost.Run()
+2017-08-06 17:14:19,374 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - Run - Executed
+2017-08-06 17:17:17,237 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [Run] Executing
+2017-08-06 17:17:17,320 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name Signalrdev.Server.Console
+[Success] DisplayName SignalRDev.Server.Console
+[Success] Description SignalRDev.Server.Console
+[Success] ServiceName Signalrdev.Server.Console
+2017-08-06 17:17:17,321 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+2017-08-06 17:17:17,341 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2017-08-06 17:17:17,350 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+2017-08-06 17:17:17,352 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [BeforeStartingService] Executing
+2017-08-06 17:17:17,353 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - BeforeStartingService - Executed
+2017-08-06 17:17:17,358 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Starting
+2017-08-06 17:17:17,414 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Owin Server, Dependencies being Configured.
+2017-08-06 17:17:17,663 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Server Configured
+2017-08-06 17:17:17,692 [1] ERROR SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Exception has been thrown by the target of an invocation.
+2017-08-06 17:17:17,694 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Started
+2017-08-06 17:17:17,695 [1] ERROR Topshelf.Hosts.ConsoleRunHost - An exception occurred
+Topshelf.TopshelfException: The service failed to start (return false).
+   at Topshelf.Hosts.ConsoleRunHost.Run()
+2017-08-06 17:17:17,698 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - Run - Executed
+2017-08-06 17:17:33,626 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [Run] Executing
+2017-08-06 17:17:33,747 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name Signalrdev.Server.Console
+[Success] DisplayName SignalRDev.Server.Console
+[Success] Description SignalRDev.Server.Console
+[Success] ServiceName Signalrdev.Server.Console
+2017-08-06 17:17:33,750 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+2017-08-06 17:17:33,771 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2017-08-06 17:17:33,780 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+2017-08-06 17:17:33,782 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [BeforeStartingService] Executing
+2017-08-06 17:17:33,783 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - BeforeStartingService - Executed
+2017-08-06 17:17:33,788 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Starting
+2017-08-06 17:17:33,841 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Owin Server, Dependencies being Configured.
+2017-08-06 17:17:34,083 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Server Configured
+2017-08-06 17:17:34,111 [1] ERROR SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Exception has been thrown by the target of an invocation.
+2017-08-06 17:17:34,112 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Started
+2017-08-06 17:17:34,114 [1] ERROR Topshelf.Hosts.ConsoleRunHost - An exception occurred
+Topshelf.TopshelfException: The service failed to start (return false).
+   at Topshelf.Hosts.ConsoleRunHost.Run()
+2017-08-06 17:17:34,117 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - Run - Executed
+2017-08-06 17:17:45,296 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [Run] Executing
+2017-08-06 17:17:45,379 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name Signalrdev.Server.Console
+[Success] DisplayName SignalRDev.Server.Console
+[Success] Description SignalRDev.Server.Console
+[Success] ServiceName Signalrdev.Server.Console
+2017-08-06 17:17:45,380 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+2017-08-06 17:17:45,401 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2017-08-06 17:17:45,411 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+2017-08-06 17:17:45,413 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [BeforeStartingService] Executing
+2017-08-06 17:17:45,414 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - BeforeStartingService - Executed
+2017-08-06 17:17:45,420 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Starting
+2017-08-06 17:17:45,473 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Owin Server, Dependencies being Configured.
+2017-08-06 17:17:45,720 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Server Configured
+2017-08-06 17:17:45,755 [1] ERROR SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Exception has been thrown by the target of an invocation.
+2017-08-06 17:17:45,756 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Started
+2017-08-06 17:17:45,758 [1] ERROR Topshelf.Hosts.ConsoleRunHost - An exception occurred
+Topshelf.TopshelfException: The service failed to start (return false).
+   at Topshelf.Hosts.ConsoleRunHost.Run()
+2017-08-06 17:17:45,760 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - Run - Executed
+2017-08-06 17:18:09,263 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [Run] Executing
+2017-08-06 17:18:09,345 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name Signalrdev.Server.Console
+[Success] DisplayName SignalRDev.Server.Console
+[Success] Description SignalRDev.Server.Console
+[Success] ServiceName Signalrdev.Server.Console
+2017-08-06 17:18:09,346 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+2017-08-06 17:18:09,366 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2017-08-06 17:18:09,376 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+2017-08-06 17:18:09,378 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [BeforeStartingService] Executing
+2017-08-06 17:18:09,378 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - BeforeStartingService - Executed
+2017-08-06 17:18:09,385 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Starting
+2017-08-06 17:18:09,437 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Owin Server, Dependencies being Configured.
+2017-08-06 17:18:09,715 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Server Configured
+2017-08-06 17:18:09,742 [1] ERROR SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Exception has been thrown by the target of an invocation.
+2017-08-06 17:18:09,743 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Started
+2017-08-06 17:18:09,745 [1] ERROR Topshelf.Hosts.ConsoleRunHost - An exception occurred
+Topshelf.TopshelfException: The service failed to start (return false).
+   at Topshelf.Hosts.ConsoleRunHost.Run()
+2017-08-06 17:18:09,748 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - Run - Executed
+2017-08-06 21:06:43,533 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [Run] Executing
+2017-08-06 21:06:43,646 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name Signalrdev.Server.Console
+[Success] DisplayName SignalRDev.Server.Console
+[Success] Description SignalRDev.Server.Console
+[Success] ServiceName Signalrdev.Server.Console
+2017-08-06 21:06:43,648 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+2017-08-06 21:06:43,666 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2017-08-06 21:06:43,676 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+2017-08-06 21:06:43,677 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [BeforeStartingService] Executing
+2017-08-06 21:06:43,678 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - BeforeStartingService - Executed
+2017-08-06 21:06:43,683 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Starting
+2017-08-06 21:06:43,735 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Owin Server, Dependencies being Configured.
+2017-08-06 21:06:44,031 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Server Configured
+2017-08-06 21:06:44,059 [1] ERROR SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Exception has been thrown by the target of an invocation.
+2017-08-06 21:06:44,060 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Started
+2017-08-06 21:06:44,062 [1] ERROR Topshelf.Hosts.ConsoleRunHost - An exception occurred
+Topshelf.TopshelfException: The service failed to start (return false).
+   at Topshelf.Hosts.ConsoleRunHost.Run()
+2017-08-06 21:06:44,064 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - Run - Executed
+2017-08-06 21:08:56,222 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [Run] Executing
+2017-08-06 21:08:56,306 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name Signalrdev.Server.Console
+[Success] DisplayName SignalRDev.Server.Console
+[Success] Description SignalRDev.Server.Console
+[Success] ServiceName Signalrdev.Server.Console
+2017-08-06 21:08:56,306 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+2017-08-06 21:08:56,326 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2017-08-06 21:08:56,338 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+2017-08-06 21:08:56,340 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [BeforeStartingService] Executing
+2017-08-06 21:08:56,340 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - BeforeStartingService - Executed
+2017-08-06 21:08:56,347 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Starting
+2017-08-06 21:08:56,399 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Owin Server, Dependencies being Configured.
+2017-08-06 21:08:56,663 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Server Configured
+2017-08-06 21:08:56,693 [1] ERROR SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Exception has been thrown by the target of an invocation.
+2017-08-06 21:08:56,694 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Started
+2017-08-06 21:08:56,695 [1] ERROR Topshelf.Hosts.ConsoleRunHost - An exception occurred
+Topshelf.TopshelfException: The service failed to start (return false).
+   at Topshelf.Hosts.ConsoleRunHost.Run()
+2017-08-06 21:08:56,698 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - Run - Executed
+2017-08-06 21:08:59,115 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [Run] Executing
+2017-08-06 21:08:59,203 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name Signalrdev.Server.Console
+[Success] DisplayName SignalRDev.Server.Console
+[Success] Description SignalRDev.Server.Console
+[Success] ServiceName Signalrdev.Server.Console
+2017-08-06 21:08:59,205 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+2017-08-06 21:08:59,224 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2017-08-06 21:08:59,234 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+2017-08-06 21:08:59,236 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [BeforeStartingService] Executing
+2017-08-06 21:08:59,236 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - BeforeStartingService - Executed
+2017-08-06 21:08:59,243 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Starting
+2017-08-06 21:08:59,293 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Owin Server, Dependencies being Configured.
+2017-08-06 21:08:59,555 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Server Configured
+2017-08-06 21:08:59,582 [1] ERROR SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Exception has been thrown by the target of an invocation.
+2017-08-06 21:08:59,583 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Started
+2017-08-06 21:08:59,585 [1] ERROR Topshelf.Hosts.ConsoleRunHost - An exception occurred
+Topshelf.TopshelfException: The service failed to start (return false).
+   at Topshelf.Hosts.ConsoleRunHost.Run()
+2017-08-06 21:08:59,587 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - Run - Executed
+2017-08-06 21:09:01,777 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [Run] Executing
+2017-08-06 21:09:01,869 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name Signalrdev.Server.Console
+[Success] DisplayName SignalRDev.Server.Console
+[Success] Description SignalRDev.Server.Console
+[Success] ServiceName Signalrdev.Server.Console
+2017-08-06 21:09:01,871 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+2017-08-06 21:09:01,891 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2017-08-06 21:09:01,902 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+2017-08-06 21:09:01,903 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [BeforeStartingService] Executing
+2017-08-06 21:09:01,904 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - BeforeStartingService - Executed
+2017-08-06 21:09:01,910 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Starting
+2017-08-06 21:09:01,962 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Owin Server, Dependencies being Configured.
+2017-08-06 21:09:02,229 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Server Configured
+2017-08-06 21:09:02,257 [1] ERROR SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Exception has been thrown by the target of an invocation.
+2017-08-06 21:09:02,258 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Started
+2017-08-06 21:09:02,260 [1] ERROR Topshelf.Hosts.ConsoleRunHost - An exception occurred
+Topshelf.TopshelfException: The service failed to start (return false).
+   at Topshelf.Hosts.ConsoleRunHost.Run()
+2017-08-06 21:09:02,262 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - Run - Executed
+2017-08-06 21:09:12,823 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [Run] Executing
+2017-08-06 21:09:12,917 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name Signalrdev.Server.Console
+[Success] DisplayName SignalRDev.Server.Console
+[Success] Description SignalRDev.Server.Console
+[Success] ServiceName Signalrdev.Server.Console
+2017-08-06 21:09:12,919 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+2017-08-06 21:09:12,940 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2017-08-06 21:09:12,954 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+2017-08-06 21:09:12,956 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [BeforeStartingService] Executing
+2017-08-06 21:09:12,957 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - BeforeStartingService - Executed
+2017-08-06 21:09:12,966 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Starting
+2017-08-06 21:09:15,671 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Owin Server, Dependencies being Configured.
+2017-08-06 21:09:43,057 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Server Configured
+2017-08-06 21:09:43,080 [1] ERROR SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Exception has been thrown by the target of an invocation.
+2017-08-06 21:09:43,081 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Started
+2017-08-06 21:09:43,083 [1] ERROR Topshelf.Hosts.ConsoleRunHost - An exception occurred
+Topshelf.TopshelfException: The service failed to start (return false).
+   at Topshelf.Hosts.ConsoleRunHost.Run()
+2017-08-06 21:09:43,085 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - Run - Executed
+2017-08-06 21:09:47,367 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [Run] Executing
+2017-08-06 21:09:47,453 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name Signalrdev.Server.Console
+[Success] DisplayName SignalRDev.Server.Console
+[Success] Description SignalRDev.Server.Console
+[Success] ServiceName Signalrdev.Server.Console
+2017-08-06 21:09:47,455 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+2017-08-06 21:09:47,474 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2017-08-06 21:09:47,483 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+2017-08-06 21:09:47,485 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [BeforeStartingService] Executing
+2017-08-06 21:09:47,486 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - BeforeStartingService - Executed
+2017-08-06 21:09:47,491 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Starting
+2017-08-06 21:09:47,548 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Owin Server, Dependencies being Configured.
+2017-08-06 21:09:47,803 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Server Configured
+2017-08-06 21:09:47,830 [1] ERROR SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Exception has been thrown by the target of an invocation.
+2017-08-06 21:09:47,831 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Started
+2017-08-06 21:09:47,832 [1] ERROR Topshelf.Hosts.ConsoleRunHost - An exception occurred
+Topshelf.TopshelfException: The service failed to start (return false).
+   at Topshelf.Hosts.ConsoleRunHost.Run()
+2017-08-06 21:09:47,835 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - Run - Executed
+2017-08-06 21:11:17,154 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [Run] Executing
+2017-08-06 21:11:17,236 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name Signalrdev.Server.Console
+[Success] DisplayName SignalRDev.Server.Console
+[Success] Description SignalRDev.Server.Console
+[Success] ServiceName Signalrdev.Server.Console
+2017-08-06 21:11:17,238 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+2017-08-06 21:11:17,256 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2017-08-06 21:11:17,266 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+2017-08-06 21:11:19,824 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [BeforeStartingService] Executing
+2017-08-06 21:11:19,825 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - BeforeStartingService - Executed
+2017-08-06 21:11:19,831 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Starting
+2017-08-06 21:11:22,949 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Owin Server, Dependencies being Configured.
+2017-08-06 21:11:23,187 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Server Configured
+2017-08-06 21:11:57,325 [1] ERROR SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Exception has been thrown by the target of an invocation.
+2017-08-06 21:11:57,327 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Started
+2017-08-06 21:11:57,328 [1] ERROR Topshelf.Hosts.ConsoleRunHost - An exception occurred
+Topshelf.TopshelfException: The service failed to start (return false).
+   at Topshelf.Hosts.ConsoleRunHost.Run()
+2017-08-06 21:11:57,331 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - Run - Executed
+2017-08-06 21:12:03,349 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [Run] Executing
+2017-08-06 21:12:03,429 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name Signalrdev.Server.Console
+[Success] DisplayName SignalRDev.Server.Console
+[Success] Description SignalRDev.Server.Console
+[Success] ServiceName Signalrdev.Server.Console
+2017-08-06 21:12:03,431 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+2017-08-06 21:12:03,450 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2017-08-06 21:12:03,461 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+2017-08-06 21:12:03,462 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [BeforeStartingService] Executing
+2017-08-06 21:12:03,463 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - BeforeStartingService - Executed
+2017-08-06 21:12:03,469 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Starting
+2017-08-06 21:12:28,274 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [Run] Executing
+2017-08-06 21:12:28,357 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name Signalrdev.Server.Console
+[Success] DisplayName SignalRDev.Server.Console
+[Success] Description SignalRDev.Server.Console
+[Success] ServiceName Signalrdev.Server.Console
+2017-08-06 21:12:28,359 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+2017-08-06 21:12:28,378 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2017-08-06 21:12:28,388 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+2017-08-06 21:12:28,390 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [BeforeStartingService] Executing
+2017-08-06 21:12:28,391 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - BeforeStartingService - Executed
+2017-08-06 21:12:28,397 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Starting
+2017-08-06 21:12:28,449 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Owin Server, Dependencies being Configured.
+2017-08-06 21:12:28,708 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Server Configured
+2017-08-06 21:13:28,635 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [Run] Executing
+2017-08-06 21:13:28,723 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name Signalrdev.Server.Console
+[Success] DisplayName SignalRDev.Server.Console
+[Success] Description SignalRDev.Server.Console
+[Success] ServiceName Signalrdev.Server.Console
+2017-08-06 21:13:28,725 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+2017-08-06 21:13:28,750 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2017-08-06 21:13:28,762 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+2017-08-06 21:13:28,763 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [BeforeStartingService] Executing
+2017-08-06 21:13:28,764 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - BeforeStartingService - Executed
+2017-08-06 21:13:28,770 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Starting
+2017-08-06 21:13:28,825 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Owin Server, Dependencies being Configured.
+2017-08-06 21:13:29,082 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Server Configured
+2017-08-06 21:13:33,393 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-06 21:13:38,013 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-06 21:13:38,533 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-06 21:13:38,921 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-06 21:13:39,769 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-06 21:13:42,344 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-06 21:14:06,992 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [Run] Executing
+2017-08-06 21:14:07,092 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name Signalrdev.Server.Console
+[Success] DisplayName SignalRDev.Server.Console
+[Success] Description SignalRDev.Server.Console
+[Success] ServiceName Signalrdev.Server.Console
+2017-08-06 21:14:07,093 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+2017-08-06 21:14:07,119 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2017-08-06 21:14:07,131 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+2017-08-06 21:14:07,132 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [BeforeStartingService] Executing
+2017-08-06 21:14:07,133 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - BeforeStartingService - Executed
+2017-08-06 21:14:07,139 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Starting
+2017-08-06 21:14:07,203 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Owin Server, Dependencies being Configured.
+2017-08-06 21:14:07,483 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Server Configured
+2017-08-06 21:14:10,990 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-06 21:14:11,483 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-06 21:14:11,982 [8] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-06 21:14:12,424 [8] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-06 21:14:12,844 [8] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-06 21:14:13,287 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-06 21:14:13,473 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-06 21:14:13,675 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-06 21:14:13,880 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-06 21:14:14,190 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-06 21:14:14,461 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-06 21:14:14,656 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-06 21:14:14,851 [8] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-06 21:14:15,038 [8] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-06 21:14:15,223 [8] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-06 21:14:15,425 [8] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-06 21:14:17,704 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-06 21:14:18,225 [8] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-06 21:14:18,684 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-06 21:14:19,135 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-06 21:14:19,625 [8] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-06 21:14:20,371 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-06 21:14:20,589 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-06 21:14:20,849 [9] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-06 21:14:21,088 [9] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-06 21:14:21,305 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-06 21:14:21,507 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-06 21:14:21,717 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.

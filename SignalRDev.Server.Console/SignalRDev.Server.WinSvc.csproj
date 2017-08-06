@@ -32,6 +32,7 @@
     <Optimize>false</Optimize>
     <DebugType>full</DebugType>
     <DebugSymbols>true</DebugSymbols>
+    <DefineConstants>TRACE;DEBUG</DefineConstants>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'SIT|AnyCPU'">
     <OutputPath>bin\SIT\</OutputPath>
