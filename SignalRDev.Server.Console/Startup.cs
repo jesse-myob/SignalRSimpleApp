@@ -1,18 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Owin;
 using Microsoft.Owin.Cors;
 using Microsoft.AspNet.SignalR;
 using Ninject;
-using System.Reflection;
-using Ninject.Web.Common.OwinHost;
-using SignalRDev.DataAccess.Dashboard.Interface;
-using SignalRDev.DataAccess.Dashboard;
-using Ninject.Web.Common;
-using System.Web.Http;
 using Common.Logging;
 using Microsoft.Owin;
 
@@ -38,8 +28,9 @@ namespace SignalRDev.Server.WinSvc
                     var resolver = new NinjectSignalRDependencyResolver(kernel);
 
                     #region Dependency Resolving Bindings
+                    
+                    //kernel.Bind<IUserLogDataAccess>().To<UserLogDataAccess>().InSingletonScope();
 
-                    kernel.Bind<IUserLogDataAccess>().To<UserLogDataAccess>().InSingletonScope();
 
                     #endregion
 

@@ -584,3 +584,45 @@ Topshelf.TopshelfException: The service failed to start (return false).
 2017-08-06 21:14:21,305 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
 2017-08-06 21:14:21,507 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
 2017-08-06 21:14:21,717 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-21 19:42:52,307 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [Run] Executing
+2017-08-21 19:42:52,541 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name Signalrdev.Server.Console
+[Success] DisplayName SignalRDev.Server.Console
+[Success] Description SignalRDev.Server.Console
+[Success] ServiceName Signalrdev.Server.Console
+2017-08-21 19:42:52,543 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+2017-08-21 19:42:52,564 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2017-08-21 19:42:52,577 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+2017-08-21 19:42:52,579 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - [BeforeStartingService] Executing
+2017-08-21 19:42:52,579 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvcHost - BeforeStartingService - Executed
+2017-08-21 19:42:52,639 [1] DEBUG SignalRDev.Server.WinSvc.WinSvcs.SignalRServerWinSvc - [Start] Starting
+2017-08-21 19:42:52,773 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Owin Server, Dependencies being Configured.
+2017-08-21 19:42:53,746 [1] DEBUG SignalRDev.Server.WinSvc.Startup - [Configuration] Server Configured
+2017-08-21 19:42:57,200 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-21 19:43:03,836 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-21 19:43:03,871 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-21 19:43:04,583 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-21 19:43:05,087 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-21 19:43:05,591 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-21 19:43:06,063 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-21 19:43:06,512 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-21 19:43:06,800 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-21 19:43:07,016 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-21 19:43:07,216 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-21 19:43:07,425 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-21 19:43:07,648 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-21 19:43:07,865 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-21 19:43:08,066 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-21 19:43:08,384 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-21 19:43:08,759 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-21 19:43:08,976 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-21 19:43:09,176 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-21 19:43:09,383 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-21 19:43:09,584 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-21 19:43:09,760 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-21 19:43:09,976 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-21 19:43:10,168 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-21 19:43:10,352 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-21 19:43:10,560 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-21 19:43:10,743 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.
+2017-08-21 19:43:10,951 [3] ERROR SignalRDev.Server.CustomHub.DashboardHub - [BroadcastUserLog] The method or operation is not implemented.

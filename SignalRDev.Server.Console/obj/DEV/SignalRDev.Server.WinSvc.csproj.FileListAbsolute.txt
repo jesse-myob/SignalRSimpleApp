@@ -87,15 +87,12 @@ D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Server.Console\bin\DEV\Nin
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Server.Console\bin\DEV\Ninject.Web.Common.OwinHost.dll
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Server.Console\bin\DEV\Ninject.WebApi.DependencyResolver.dll
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Server.Console\bin\DEV\Owin.dll
-D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Server.Console\bin\DEV\SignalRDev.DataAccess.Dashboard.dll
-D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Server.Console\bin\DEV\SignalRDev.Svc.Common.dll
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Server.Console\bin\DEV\System.Net.Http.Formatting.dll
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Server.Console\bin\DEV\System.Web.Cors.dll
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Server.Console\bin\DEV\System.Web.Http.dll
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Server.Console\bin\DEV\Topshelf.Common.Logging.dll
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Server.Console\bin\DEV\Topshelf.dll
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Server.Console\bin\DEV\WebActivatorEx.dll
-D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Server.Console\bin\DEV\SignalRDev.DataAccess.Dashboard.pdb
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Server.Console\bin\DEV\Common.Logging.pdb
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Server.Console\bin\DEV\Common.Logging.xml
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Server.Console\bin\DEV\Common.Logging.Core.pdb
@@ -122,3 +119,11 @@ D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Server.Console\bin\DEV\Sys
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Server.Console\obj\DEV\SignalRDev.Server.WinSvc.exe
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Server.Console\obj\DEV\SignalRDev.Server.WinSvc.pdb
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Server.Console\obj\DEV\SignalRDev.Server.WinSvc.csprojResolveAssemblyReference.cache
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Server.Console\bin\DEV\SignalRDev.Svc.Dashboard.dll
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Server.Console\bin\DEV\SignalRDev.Svc.Dashboard.pdb
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Server.Console\bin\DEV\SignalRDev.BusinessLogic.Interfaces.dll
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Server.Console\bin\DEV\SignalRDev.BusinessLogic.Interfaces.pdb
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Server.Console\bin\DEV\SignalRDev.BusinessLogic.MapperConfig.dll
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Server.Console\bin\DEV\AutoMapper.dll
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Server.Console\bin\DEV\SignalRDev.BusinessLogic.MapperConfig.pdb
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Server.Console\bin\DEV\AutoMapper.xml

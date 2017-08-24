@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using SignalRDev.Client.Common;
 using SignalRDev.Client.Common.Interface;
 using SignalRDev.Client.Common.Config;
-using SignalRDev.Svc.Common;
+using SignalRDev.Svc.Dashboard.Users;
 
 namespace SignalRDev.Client.WinApp
 {
@@ -94,7 +94,7 @@ namespace SignalRDev.Client.WinApp
 
         private async void button3_Click(object sender, EventArgs e)
         {
-            await signalRClient.Proxy.Invoke("BroadcastUserLog", new UserLogInformation
+            await signalRClient.Proxy.Invoke("BroadcastUserLog", new UserLogInformationVM
             {
                 UserId = "15274",
                 LogDate = DateTime.Now,

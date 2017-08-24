@@ -6,8 +6,6 @@ using System.Threading.Tasks;
 using Microsoft.Owin;
 using Microsoft.Owin.Hosting;
 using Ninject;
-using SignalRDev.DataAccess.Dashboard.Interface;
-using SignalRDev.DataAccess.Dashboard;
 using SignalRDev.Server.WinSvc.WinSvcs;
 using Common.Logging;
 

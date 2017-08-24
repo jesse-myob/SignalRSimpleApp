@@ -36,7 +36,6 @@ D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Client.WinApp\bin\DEV\Micr
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Client.WinApp\bin\DEV\Newtonsoft.Json.dll
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Client.WinApp\bin\DEV\Owin.dll
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Client.WinApp\bin\DEV\SignalRDev.Client.Common.dll
-D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Client.WinApp\bin\DEV\SignalRDev.Svc.Common.dll
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Client.WinApp\bin\DEV\SignalRDev.Client.Common.pdb
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Client.WinApp\bin\DEV\Microsoft.AspNet.SignalR.Client.xml
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Client.WinApp\bin\DEV\Microsoft.AspNet.SignalR.Core.xml
@@ -50,3 +49,5 @@ D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Client.WinApp\obj\DEV\Sign
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Client.WinApp\obj\DEV\SignalRDev.Client.WinApp.Properties.Resources.resources
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Client.WinApp\obj\DEV\SignalRDev.Client.WinApp.csproj.GenerateResource.Cache
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Client.WinApp\obj\DEV\SignalRDev.Client.WinApp.exe
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Client.WinApp\bin\DEV\SignalRDev.Svc.Dashboard.dll
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Client.WinApp\bin\DEV\SignalRDev.Svc.Dashboard.pdb

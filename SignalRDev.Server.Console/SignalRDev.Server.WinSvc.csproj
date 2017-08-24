@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -9,7 +9,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>SignalRDev.Server.WinSvc</RootNamespace>
     <AssemblyName>SignalRDev.Server.WinSvc</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <IsWebBootstrapper>false</IsWebBootstrapper>
     <PublishUrl>publish\</PublishUrl>
@@ -26,6 +26,7 @@
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'DEV|AnyCPU'">
     <OutputPath>bin\DEV\</OutputPath>
@@ -171,13 +172,17 @@
     <Content Include="LICENSE.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SignalRDev.DataAccess.Dashboard\SignalRDev.DataAccess.Dashboard.csproj">
-      <Project>{943eed3f-e129-4e5e-a793-a1982e991cc4}</Project>
-      <Name>SignalRDev.DataAccess.Dashboard</Name>
+    <ProjectReference Include="..\SignalRDev.BusinessLogic.Interfaces\SignalRDev.BusinessLogic.Interfaces.csproj">
+      <Project>{65731a0b-4e03-4f38-b7ce-d1f8d14e0cc2}</Project>
+      <Name>SignalRDev.BusinessLogic.Interfaces</Name>
     </ProjectReference>
-    <ProjectReference Include="..\SignalRDev.Svc.Common\SignalRDev.Svc.Common.csproj">
-      <Project>{a8086e48-f9d0-491f-bc46-54118bfec38b}</Project>
-      <Name>SignalRDev.Svc.Common</Name>
+    <ProjectReference Include="..\SignalRDev.BusinessLogic.MapperConfig\SignalRDev.BusinessLogic.MapperConfig.csproj">
+      <Project>{e4378d72-6ef6-4f46-b132-ad6932f39bc5}</Project>
+      <Name>SignalRDev.BusinessLogic.MapperConfig</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SignalRDev.Svc.Dashboard\SignalRDev.Svc.Dashboard.csproj">
+      <Project>{6afc5e40-6ed1-4b96-b7bc-5bcdf3555139}</Project>
+      <Name>SignalRDev.Svc.Dashboard</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

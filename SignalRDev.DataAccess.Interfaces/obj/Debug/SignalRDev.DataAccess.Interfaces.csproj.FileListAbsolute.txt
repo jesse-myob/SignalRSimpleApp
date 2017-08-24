@@ -1,0 +1,12 @@
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.DataAccess.Interfaces\bin\Debug\SignalRDev.DataAccess.Interfaces.dll
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.DataAccess.Interfaces\bin\Debug\SignalRDev.DataAccess.Interfaces.pdb
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.DataAccess.Interfaces\bin\Debug\SignalRDev.DataAccess.Models.dll
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.DataAccess.Interfaces\bin\Debug\SignalRDev.DataAccess.Models.pdb
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.DataAccess.Interfaces\obj\Debug\SignalRDev.DataAccess.Interfaces.csprojResolveAssemblyReference.cache
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.DataAccess.Interfaces\obj\Debug\SignalRDev.DataAccess.Interfaces.dll
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.DataAccess.Interfaces\obj\Debug\SignalRDev.DataAccess.Interfaces.pdb
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.DataAccess.Interfaces\bin\Debug\SignalRDev.DataAccess.Interfaces.dll.config
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.DataAccess.Interfaces\bin\Debug\EntityFramework.dll
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.DataAccess.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.DataAccess.Interfaces\bin\Debug\EntityFramework.xml
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.DataAccess.Interfaces\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,5 @@
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.DataAccess.Models\bin\Debug\SignalRDev.DataAccess.Models.dll
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.DataAccess.Models\bin\Debug\SignalRDev.DataAccess.Models.pdb
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.DataAccess.Models\obj\Debug\SignalRDev.DataAccess.Models.csprojResolveAssemblyReference.cache
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.DataAccess.Models\obj\Debug\SignalRDev.DataAccess.Models.dll
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.DataAccess.Models\obj\Debug\SignalRDev.DataAccess.Models.pdb

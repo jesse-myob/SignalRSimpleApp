@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -9,8 +9,9 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>SignalRDev.Client.WinApp</RootNamespace>
     <AssemblyName>SignalRDev.Client.WinApp</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'DEV|AnyCPU'">
     <OutputPath>bin\DEV\</OutputPath>
@@ -78,6 +79,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="App.DEV.config">
       <DependentUpon>App.config</DependentUpon>
@@ -112,9 +114,9 @@
       <Project>{72b53636-ac21-4279-a677-2deb0963458c}</Project>
       <Name>SignalRDev.Client.Common</Name>
     </ProjectReference>
-    <ProjectReference Include="..\SignalRDev.Svc.Common\SignalRDev.Svc.Common.csproj">
-      <Project>{a8086e48-f9d0-491f-bc46-54118bfec38b}</Project>
-      <Name>SignalRDev.Svc.Common</Name>
+    <ProjectReference Include="..\SignalRDev.Svc.Dashboard\SignalRDev.Svc.Dashboard.csproj">
+      <Project>{6afc5e40-6ed1-4b96-b7bc-5bcdf3555139}</Project>
+      <Name>SignalRDev.Svc.Dashboard</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

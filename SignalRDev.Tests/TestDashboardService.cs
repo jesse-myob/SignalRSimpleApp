@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNet.SignalR.Client;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using SignalRDev.Server.WinSvc.WinSvcs;
-using SignalRDev.Svc.Common;
+using SignalRDev.Svc.Dashboard.Users;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,20 +21,20 @@ namespace SignalRDev.Tests
             PrivateObject privateObject = new PrivateObject(service);
             privateObject.Invoke("Start", new HostControl[] { null });
 
-            UserLogInformation userInfo = null;
+            UserLogInformationVM userInfo = null;
 
             using (HubConnection hub = new HubConnection("http://localhost:7654"))
             {
                 IHubProxy proxy = hub.CreateHubProxy("DashboardHub");
                 hub.Start().Wait();
 
-                proxy.Invoke<UserLogInformation>("BroadcastUserLog", new UserLogInformation {
+                proxy.Invoke<UserLogInformationVM>("BroadcastUserLog", new UserLogInformationVM {
                     UserId = "15274",
                     LogDate = DateTime.Now,
                     Message = "User has login"
                 });
 
-                proxy.On<UserLogInformation>("BroadcastUserLog", (userinfo) =>
+                proxy.On<UserLogInformationVM>("BroadcastUserLog", (userinfo) =>
                 {
                     userInfo = userinfo;
                 });

@@ -14,11 +14,9 @@ D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Tests\bin\Debug\Newtonsoft
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Tests\bin\Debug\Owin.dll
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Tests\bin\Debug\SignalRDev.Client.Common.dll
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Tests\bin\Debug\SignalRDev.Server.WinSvc.exe
-D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Tests\bin\Debug\SignalRDev.Svc.Common.dll
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Tests\bin\Debug\Topshelf.dll
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Tests\bin\Debug\Common.Logging.Core.dll
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Tests\bin\Debug\Ninject.dll
-D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Tests\bin\Debug\SignalRDev.DataAccess.Dashboard.dll
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Tests\bin\Debug\Common.Logging.dll
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Tests\bin\Debug\Topshelf.Common.Logging.dll
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Tests\bin\Debug\Microsoft.Owin.Cors.dll
@@ -37,10 +35,13 @@ D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Tests\bin\Debug\Newtonsoft
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Tests\bin\Debug\Common.Logging.Core.pdb
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Tests\bin\Debug\Common.Logging.Core.xml
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Tests\bin\Debug\Ninject.xml
-D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Tests\bin\Debug\SignalRDev.DataAccess.Dashboard.pdb
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Tests\bin\Debug\Common.Logging.pdb
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Tests\bin\Debug\Common.Logging.xml
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Tests\bin\Debug\Microsoft.Owin.Cors.xml
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Tests\obj\DEV\SignalRDev.Tests.csprojResolveAssemblyReference.cache
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Tests\obj\DEV\SignalRDev.Tests.dll
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Tests\obj\DEV\SignalRDev.Tests.pdb
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Tests\bin\Debug\SignalRDev.Svc.Dashboard.dll
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Tests\bin\Debug\SignalRDev.Svc.Dashboard.pdb
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Tests\bin\Debug\SignalRDev.BusinessLogic.Interfaces.dll
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Tests\bin\Debug\SignalRDev.BusinessLogic.Interfaces.pdb

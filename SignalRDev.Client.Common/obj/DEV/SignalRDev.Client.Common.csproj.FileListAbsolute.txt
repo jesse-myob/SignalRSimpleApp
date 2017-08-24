@@ -31,7 +31,6 @@ D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Client.Common\bin\Release\
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Client.Common\bin\Release\Microsoft.Owin.Security.dll
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Client.Common\bin\Release\Newtonsoft.Json.dll
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Client.Common\bin\Release\Owin.dll
-D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Client.Common\bin\Release\SignalRDev.Svc.Common.dll
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Client.Common\bin\Release\Microsoft.AspNet.SignalR.Client.xml
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Client.Common\bin\Release\Microsoft.AspNet.SignalR.Core.xml
 D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Client.Common\bin\Release\Microsoft.AspNet.SignalR.SystemWeb.xml

@@ -1,0 +1,5 @@
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Svc.Dashboard\bin\Debug\SignalRDev.Svc.Dashboard.dll
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Svc.Dashboard\bin\Debug\SignalRDev.Svc.Dashboard.pdb
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Svc.Dashboard\obj\Debug\SignalRDev.Svc.Dashboard.csprojResolveAssemblyReference.cache
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Svc.Dashboard\obj\Debug\SignalRDev.Svc.Dashboard.dll
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.Svc.Dashboard\obj\Debug\SignalRDev.Svc.Dashboard.pdb

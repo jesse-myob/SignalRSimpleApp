@@ -1,0 +1,9 @@
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.BusinessLogic.Common\bin\Debug\SignalRDev.BusinessLogic.Common.dll
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.BusinessLogic.Common\bin\Debug\SignalRDev.BusinessLogic.Common.pdb
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.BusinessLogic.Common\bin\Debug\SignalRDev.BusinessLogic.Interfaces.dll
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.BusinessLogic.Common\bin\Debug\SignalRDev.Svc.Dashboard.dll
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.BusinessLogic.Common\bin\Debug\SignalRDev.BusinessLogic.Interfaces.pdb
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.BusinessLogic.Common\bin\Debug\SignalRDev.Svc.Dashboard.pdb
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.BusinessLogic.Common\obj\Debug\SignalRDev.BusinessLogic.Common.csprojResolveAssemblyReference.cache
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.BusinessLogic.Common\obj\Debug\SignalRDev.BusinessLogic.Common.dll
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.BusinessLogic.Common\obj\Debug\SignalRDev.BusinessLogic.Common.pdb

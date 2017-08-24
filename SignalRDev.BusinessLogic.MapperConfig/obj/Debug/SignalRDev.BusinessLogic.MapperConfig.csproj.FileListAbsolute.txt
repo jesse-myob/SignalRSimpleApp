@@ -1,0 +1,11 @@
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.BusinessLogic.MapperConfig\bin\Debug\SignalRDev.BusinessLogic.MapperConfig.dll
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.BusinessLogic.MapperConfig\bin\Debug\SignalRDev.BusinessLogic.MapperConfig.pdb
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.BusinessLogic.MapperConfig\bin\Debug\AutoMapper.dll
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.BusinessLogic.MapperConfig\bin\Debug\SignalRDev.BusinessLogic.Interfaces.dll
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.BusinessLogic.MapperConfig\bin\Debug\SignalRDev.Svc.Dashboard.dll
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.BusinessLogic.MapperConfig\bin\Debug\SignalRDev.BusinessLogic.Interfaces.pdb
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.BusinessLogic.MapperConfig\bin\Debug\AutoMapper.xml
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.BusinessLogic.MapperConfig\bin\Debug\SignalRDev.Svc.Dashboard.pdb
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.BusinessLogic.MapperConfig\obj\Debug\SignalRDev.BusinessLogic.MapperConfig.csprojResolveAssemblyReference.cache
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.BusinessLogic.MapperConfig\obj\Debug\SignalRDev.BusinessLogic.MapperConfig.dll
+D:\Development\SignalRDev\SignalRSimpleApp\SignalRDev.BusinessLogic.MapperConfig\obj\Debug\SignalRDev.BusinessLogic.MapperConfig.pdb

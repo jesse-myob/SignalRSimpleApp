@@ -1,2 +1,0 @@
-D:\Jesse\DEV\SignalR\SignalRDev\SignalRDev.Svc.Common\bin\PRD\SignalRDev.Svc.Common.dll
-D:\Jesse\DEV\SignalR\SignalRDev\SignalRDev.Svc.Common\obj\PRD\SignalRDev.Svc.Common.dll
