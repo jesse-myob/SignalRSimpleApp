@@ -32,7 +32,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{DCA326A1-1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRDev.Tests", "SignalRDev.Tests\SignalRDev.Tests.csproj", "{65E68F96-038B-4A45-B018-9773963ABE89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRDev.Test.DashboardDataAccess", "SignalRDev.Test.DashboardDataAccess\SignalRDev.Test.DashboardDataAccess.csproj", "{131C9224-ADF6-4866-AD41-0DFE3B51BBED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRDev.Test.Unit", "SignalRDev.Test.DashboardDataAccess\SignalRDev.Test.Unit.csproj", "{131C9224-ADF6-4866-AD41-0DFE3B51BBED}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRDev.DataAccess.Interfaces", "SignalRDev.DataAccess.Interfaces\SignalRDev.DataAccess.Interfaces.csproj", "{544B83F8-9F9E-469C-AD03-CEA76DA2CE1E}"
 EndProject
@@ -53,6 +53,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRDev.Svc.Dashboard", "SignalRDev.Svc.Dashboard\SignalRDev.Svc.Dashboard.csproj", "{6AFC5E40-6ED1-4B96-B7BC-5BCDF3555139}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRDev.Server.WebApi", "SignalRDev.Server.WebApi\SignalRDev.Server.WebApi.csproj", "{B6B69DB6-06D5-462B-8B5C-10CFC7E0B430}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRDev.Test.Integration", "SignalRDev.Test.Integration\SignalRDev.Test.Integration.csproj", "{36243AFD-E3A4-4455-BBAB-C2378A52296D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRDev.Test.Controller", "SignalRDev.Test.Controller\SignalRDev.Test.Controller.csproj", "{1A0D0259-4A7D-4463-AC38-22C1FAAA5B71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -213,6 +217,26 @@ Global
 		{B6B69DB6-06D5-462B-8B5C-10CFC7E0B430}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B6B69DB6-06D5-462B-8B5C-10CFC7E0B430}.SIT|Any CPU.ActiveCfg = Release|Any CPU
 		{B6B69DB6-06D5-462B-8B5C-10CFC7E0B430}.SIT|Any CPU.Build.0 = Release|Any CPU
+		{36243AFD-E3A4-4455-BBAB-C2378A52296D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36243AFD-E3A4-4455-BBAB-C2378A52296D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36243AFD-E3A4-4455-BBAB-C2378A52296D}.DEV|Any CPU.ActiveCfg = Debug|Any CPU
+		{36243AFD-E3A4-4455-BBAB-C2378A52296D}.DEV|Any CPU.Build.0 = Debug|Any CPU
+		{36243AFD-E3A4-4455-BBAB-C2378A52296D}.PRD|Any CPU.ActiveCfg = Release|Any CPU
+		{36243AFD-E3A4-4455-BBAB-C2378A52296D}.PRD|Any CPU.Build.0 = Release|Any CPU
+		{36243AFD-E3A4-4455-BBAB-C2378A52296D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36243AFD-E3A4-4455-BBAB-C2378A52296D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36243AFD-E3A4-4455-BBAB-C2378A52296D}.SIT|Any CPU.ActiveCfg = Release|Any CPU
+		{36243AFD-E3A4-4455-BBAB-C2378A52296D}.SIT|Any CPU.Build.0 = Release|Any CPU
+		{1A0D0259-4A7D-4463-AC38-22C1FAAA5B71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A0D0259-4A7D-4463-AC38-22C1FAAA5B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A0D0259-4A7D-4463-AC38-22C1FAAA5B71}.DEV|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A0D0259-4A7D-4463-AC38-22C1FAAA5B71}.DEV|Any CPU.Build.0 = Debug|Any CPU
+		{1A0D0259-4A7D-4463-AC38-22C1FAAA5B71}.PRD|Any CPU.ActiveCfg = Release|Any CPU
+		{1A0D0259-4A7D-4463-AC38-22C1FAAA5B71}.PRD|Any CPU.Build.0 = Release|Any CPU
+		{1A0D0259-4A7D-4463-AC38-22C1FAAA5B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A0D0259-4A7D-4463-AC38-22C1FAAA5B71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A0D0259-4A7D-4463-AC38-22C1FAAA5B71}.SIT|Any CPU.ActiveCfg = Release|Any CPU
+		{1A0D0259-4A7D-4463-AC38-22C1FAAA5B71}.SIT|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -233,5 +257,7 @@ Global
 		{A50D48BC-324E-4266-9BDC-3473C086C499} = {7FB58659-D49D-416B-B26C-DD34E0BFB9F2}
 		{6AFC5E40-6ED1-4B96-B7BC-5BCDF3555139} = {D00DD859-F5C5-4157-9F61-5A9EC56A6EC1}
 		{B6B69DB6-06D5-462B-8B5C-10CFC7E0B430} = {7663560C-D473-47B7-815D-847E325EF4DF}
+		{36243AFD-E3A4-4455-BBAB-C2378A52296D} = {DCA326A1-1106-4584-A466-EA7D7EF35E3A}
+		{1A0D0259-4A7D-4463-AC38-22C1FAAA5B71} = {DCA326A1-1106-4584-A466-EA7D7EF35E3A}
 	EndGlobalSection
 EndGlobal

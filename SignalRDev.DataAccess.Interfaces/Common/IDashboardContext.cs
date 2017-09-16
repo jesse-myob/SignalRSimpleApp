@@ -22,5 +22,7 @@ namespace SignalRDev.DataAccess.Interfaces.Common
         int SaveChanges();
 
         Task<int> SaveChangesAsync();
+
+        bool CheckDbConnection();
     }
 }

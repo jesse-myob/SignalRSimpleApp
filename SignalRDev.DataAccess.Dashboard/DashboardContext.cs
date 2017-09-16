@@ -18,7 +18,7 @@ namespace SignalRDev.DataAccess.Dashboard
 
         public DashboardContext(string connectionString) : base(connectionString)
         {
-
+            
         }
 
         public System.Data.Entity.IDbSet<UserLog> CoopbaseUsers { get; set; }
@@ -33,6 +33,21 @@ namespace SignalRDev.DataAccess.Dashboard
             // PostgreSQL uses the public schema by default - not dbo.
             modelBuilder.HasDefaultSchema("public");
             base.OnModelCreating(modelBuilder);
+        }
+
+        public bool CheckDbConnection()
+        {
+            try
+            {
+                this.Database.Connection.Open();
+                this.Database.Connection.Close();
+            }
+            catch (Exception)
+            {
+                return false;
+            }
+
+            return true;
         }
     }
 }
